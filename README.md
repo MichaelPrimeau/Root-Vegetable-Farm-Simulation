@@ -1,4 +1,5 @@
 # Root-Vegetable-Farm-Simulation
+This project simulates a vegetable market by using threads to simulate fields and customers. This was completed as a school assignment and this readme file includes my lab writeup for this assignment.
 
 ## Introduction
 In this lab, we wrote a program that simulates a vegetable market using threads. There were vegetable fields that produced veggies, each field having its own thread. Then there were also customers, each having its own thread as well. The fields produced a specified number of veggies as described in a file, the customers then purchased these vegetables until no more orders could be made. The results of the simulation were then printed out to the user.
